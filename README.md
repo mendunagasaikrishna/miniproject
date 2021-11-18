@@ -9,3 +9,7 @@ The Banking system consists of two parts: User-Front and Admin-Portal. User-Fron
 Er diagram
 
 ![37703339-8e85fcae-2d1f-11e8-900f-94cb2046d97f](https://user-images.githubusercontent.com/83689442/142375891-d0a0e071-93a7-4250-b953-2dfbb51b543a.png)
+
+block daigram
+
+![block daigram](https://user-images.githubusercontent.com/83689442/142376353-e3d3b273-bbd6-4d33-aaeb-0d61abc795c0.png)
